@@ -14,6 +14,11 @@ Nesse desafio a ideia foi aprender o uso dos operadores de comparação “igual
 ### Dia 02 - Variavéis 
 Utilizar o window.prompt e o window.alert em tela para o usuário digitar as informações solicitadas e exibir uma mensagem final.
 
+### Dia 03 - Fluxo de decisão
+o fluxo da aplicação, como for, while, if e else. Todas essas conseguem cumprir esse objetivo, dada uma certa condição.
+O if e o else são capazes de criar ramificações dentro da aplicação para que seja tomada uma ou outra ação, dependendo da condição fornecida.
+Os loops (como for e while) são capazes de fazer uma tarefa repetitiva se transformar em poucas linhas de código, independente de quantas vezes você precisar repetir aquela tarefa.
+
 
 
 
