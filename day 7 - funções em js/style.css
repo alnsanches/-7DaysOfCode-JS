@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: crimson;
+    color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 12px;
+    margin-top: 20px;
+}
+
+h1 {
+    margin-top: 250px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+#resultado {
+    text-align: center;
+    font-size: 16px;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+}
