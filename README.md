@@ -34,8 +34,9 @@ Criar um programa em Javascript que perguntará se você deseja adicionar uma co
 
 Ainda usando o exercício da lista de compras, mas dessa vez para remover um item da lista de compras do array.
 
+### Dia 07 - Funções em JS
 
-
+Elaborar uma calculadora em JS.
 
 
 ## Tecnologias usadas
